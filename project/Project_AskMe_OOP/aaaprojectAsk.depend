@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1665664945 source:c:\users\sama\documents\codeblocksprojects\aaaprojectask\main.cpp
+	<iostream>
+	"UserManger.h"
+	"AskMe.h"
+
+1665664943 c:\users\sama\documents\codeblocksprojects\aaaprojectask\include\usermanger.h
+	"User.h"
+	"Helper.h"
+	<bits/stdc++.h>
+
+1665664941 c:\users\sama\documents\codeblocksprojects\aaaprojectask\include\user.h
+	<bits/stdc++.h>
+
+1666020244 c:\users\sama\documents\codeblocksprojects\aaaprojectask\include\helper.h
+	<bits/stdc++.h>
+
+1665664944 c:\users\sama\documents\codeblocksprojects\aaaprojectask\include\askme.h
+	"Helper.h"
+	"QuestionManger.h"
+	"UserManger.h"
+	<bits/stdc++.h>
+
+1666361804 c:\users\sama\documents\codeblocksprojects\aaaprojectask\include\questionmanger.h
+	"UserManger.h"
+	"Helper.h"
+	"Question.h"
+	<bits/stdc++.h>
+
+1665664938 c:\users\sama\documents\codeblocksprojects\aaaprojectask\include\question.h
+	<bits/stdc++.h>
+
+1666362560 source:c:\users\sama\documents\codeblocksprojects\aaaprojectask\src\askme.cpp
+	"AskMe.h"
+	"Helper.h"
+	"Question.h"
+	"QuestionManger.h"
+	"UserManger.h"
+	<bits/stdc++.h>
+
+1666363491 source:c:\users\sama\documents\codeblocksprojects\aaaprojectask\src\helper.cpp
+	"Helper.h"
+	<bits/stdc++.h>
+
+1665664939 source:c:\users\sama\documents\codeblocksprojects\aaaprojectask\src\question.cpp
+	"Question.h"
+	<bits/stdc++.h>
+
+1666362371 source:c:\users\sama\documents\codeblocksprojects\aaaprojectask\src\questionmanger.cpp
+	"QuestionManger.h"
+	<bits/stdc++.h>
+
+1666361080 source:c:\users\sama\documents\codeblocksprojects\aaaprojectask\src\user.cpp
+	"User.h"
+	<bits/stdc++.h>
+
+1666035882 source:c:\users\sama\documents\codeblocksprojects\aaaprojectask\src\usermanger.cpp
+	"UserManger.h"
+	"Helper.h"
+	"User.h"
+	<bits/stdc++.h>
+
+1665664945 source:f:\work-----\work coby 1\project ask import\main.cpp
+	<iostream>
+	"UserManger.h"
+	"AskMe.h"
+
+1665664943 f:\work-----\work coby 1\project ask import\include\usermanger.h
+	"User.h"
+	"Helper.h"
+	<bits/stdc++.h>
+
+1666365453 f:\work-----\work coby 1\project ask import\include\user.h
+	<bits/stdc++.h>
+
+1666020244 f:\work-----\work coby 1\project ask import\include\helper.h
+	<bits/stdc++.h>
+
+1666365453 f:\work-----\work coby 1\project ask import\include\askme.h
+	"Helper.h"
+	"QuestionManger.h"
+	"UserManger.h"
+	<bits/stdc++.h>
+
+1666361804 f:\work-----\work coby 1\project ask import\include\questionmanger.h
+	"UserManger.h"
+	"Helper.h"
+	"Question.h"
+	<bits/stdc++.h>
+
+1665664938 f:\work-----\work coby 1\project ask import\include\question.h
+	<bits/stdc++.h>
+
+1666362560 source:f:\work-----\work coby 1\project ask import\src\askme.cpp
+	"AskMe.h"
+	"Helper.h"
+	"Question.h"
+	"QuestionManger.h"
+	"UserManger.h"
+	<bits/stdc++.h>
+
+1665664939 source:f:\work-----\work coby 1\project ask import\src\question.cpp
+	"Question.h"
+	<bits/stdc++.h>
+
+1666362371 source:f:\work-----\work coby 1\project ask import\src\questionmanger.cpp
+	"QuestionManger.h"
+	<bits/stdc++.h>
+
+1666361080 source:f:\work-----\work coby 1\project ask import\src\user.cpp
+	"User.h"
+	<bits/stdc++.h>
+
+1666035882 source:f:\work-----\work coby 1\project ask import\src\usermanger.cpp
+	"UserManger.h"
+	"Helper.h"
+	"User.h"
+	<bits/stdc++.h>
+
+1666364476 source:f:\work-----\work coby 1\project ask import\src\helper.cpp
+	"Helper.h"
+	<bits/stdc++.h>
+
